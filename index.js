@@ -36,3 +36,4 @@ exports.url							= require.resolve('url/');
 exports.util						= require.resolve('util/util.js');
 exports.vm							= require.resolve('vm-browserify');
 exports.zlib						= require.resolve('browserify-zlib');
+exports.v8              = require('v8');
