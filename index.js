@@ -39,3 +39,4 @@ exports.zlib						= require.resolve('browserify-zlib');
 exports.v8              = require('v8');
 exports.async_hooks     = require('async_hooks');
 exports.http2           = require('http2');
+exports.inspector       = require('inspector');
